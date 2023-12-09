@@ -1,5 +1,5 @@
-// let nums1 = [7,3,1,8,2,4,10];
-// let target1 = [11];
+ let nums1 = [7,3,1,8,2,4,10];
+ let target1 = [11];
 
 function twoSum(nums, target) {
   let hashMap = new Map();
@@ -15,4 +15,4 @@ function twoSum(nums, target) {
   }
 }
 
-// console.log(twoSum(nums1, target1));
+ console.log(twoSum(nums1, target1));
